@@ -9,7 +9,7 @@ import org.telegram.telegrambots.meta.exceptions.TelegramApiException;
 public class Bot extends TelegramLongPollingBot {
     //создаем две константы, присваиваем им значения токена и имя бота соответсвтенно
     //вместо звездочек подставляйте свои данные
-    final private String BOT_TOKEN = "6159608378:AAFcTs0CLyeqG9R88lkg1_cq1raLvZhLS1U";
+    final private String BOT_TOKEN = "";
     final private String BOT_NAME = "SimpleBot";
     Storage storage;
 
